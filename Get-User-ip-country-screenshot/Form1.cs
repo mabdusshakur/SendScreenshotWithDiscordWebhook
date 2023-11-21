@@ -40,7 +40,7 @@ namespace Get_User_ip_country_screenshot
         }
         private void sendScreenshot_btn_Click(object sender, EventArgs e)
         {
-            string webhook_url = "https://discord.com/api/webhooks/1176399311530106920/lw9e4hZ9mMiRq1XbwGRrn-si7QQD8qWPj6XAcs8cBrjVxH-omMh6SjFtLLBryppPDL7-";
+            string webhook_url = "";
             var filePath = Environment.CurrentDirectory + "screenshot.png";
 
             var s_width = Screen.PrimaryScreen.Bounds.Width;
