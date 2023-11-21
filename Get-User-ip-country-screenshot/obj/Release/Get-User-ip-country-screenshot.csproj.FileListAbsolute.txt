@@ -1,0 +1,10 @@
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\bin\Release\Get-User-ip-country-screenshot.exe.config
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\bin\Release\Get-User-ip-country-screenshot.exe
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\bin\Release\Get-User-ip-country-screenshot.pdb
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\obj\Release\Get-User-ip-country-screenshot.csproj.AssemblyReference.cache
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\obj\Release\Get_User_ip_country_screenshot.Form1.resources
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\obj\Release\Get_User_ip_country_screenshot.Properties.Resources.resources
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\obj\Release\Get-User-ip-country-screenshot.csproj.GenerateResource.cache
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\obj\Release\Get-User-ip-country-screenshot.csproj.CoreCompileInputs.cache
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\obj\Release\Get-User-ip-country-screenshot.exe
+D:\Code\RandomProjects\SendScreenshotWithDiscordWebhook\Get-User-ip-country-screenshot\obj\Release\Get-User-ip-country-screenshot.pdb
